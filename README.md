@@ -18,7 +18,7 @@ You are a cybersecurity analyst working at a company that specializes in providi
 ### Tools Used
 
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- tcpdump, a command-line network protocol analyzer. 
  
 ## Steps
 <a href="https://docs.google.com/document/d/1hwjSRYalxGd-qyRIXWz8LBVuSAgEq0AHXOF_BB7DdrI/template/preview">Ref 1: cybersecurity Incident report template</a>|
