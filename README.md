@@ -13,6 +13,7 @@ You are a cybersecurity analyst working at a company that specializes in providi
 - analyzing and interpreting.
 - protocols and security vulnerabilities.
 - problem-solving skills and critical-thinking.
+- network analyzer tool, tcpdump.
 
 ### Tools Used
 
@@ -20,6 +21,6 @@ You are a cybersecurity analyst working at a company that specializes in providi
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
  
 ## Steps
-<a href="https://docs.google.com/document/d/1NefE-jtBvjUSdp9epYt4pMQsWBvMYM9nwJJ-ZWcNKUM/edit">Ref 1: Incident report</a>|
+<a href="https://docs.google.com/document/d/1hwjSRYalxGd-qyRIXWz8LBVuSAgEq0AHXOF_BB7DdrI/template/preview">Ref 1: cybersecurity Incident report template</a>|
 
-<a href="https://docs.google.com/document/d/1Op4-epgneCidpryzw-y7T0xAdEKliDjH4OsBDn9OBvc/edit?usp=sharing">Ref 2: Botium Toys Controls and compliance checklist</a>|
+<a href="https://docs.google.com/document/d/1NefE-jtBvjUSdp9epYt4pMQsWBvMYM9nwJJ-ZWcNKUM/edit">Ref 2: Incident Report</a>|
