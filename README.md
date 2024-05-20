@@ -20,6 +20,6 @@ You are a cybersecurity analyst working at a company that specializes in providi
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
  
 ## Steps
-<a href="https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc">Ref 1: Botium Toys report</a>|
+<a href="https://docs.google.com/document/d/1NefE-jtBvjUSdp9epYt4pMQsWBvMYM9nwJJ-ZWcNKUM/edit">Ref 1: Incident report</a>|
 
 <a href="https://docs.google.com/document/d/1Op4-epgneCidpryzw-y7T0xAdEKliDjH4OsBDn9OBvc/edit?usp=sharing">Ref 2: Botium Toys Controls and compliance checklist</a>|
